@@ -4,7 +4,7 @@
     width: 100%;
     max-width: 600px;
     margin: 0 auto;
-    background-image: url('/mp1.jpg'); /* Path to your image */
+    background-image: url('/src/mp1.jpg'); /* Path to your image */
     background-size: cover; /* Cover the entire area */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Prevent the image from repeating */
